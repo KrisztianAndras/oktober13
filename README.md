@@ -19,4 +19,4 @@
 3. ne
 4. aggodj
 
-[ez egy link]("https://youtu.be/Aq5WXmQQooo?si=HhaS2bB-Rxu5C1US")
+[ez egy link](https://youtu.be/Aq5WXmQQooo?si=HhaS2bB-Rxu5C1US)
