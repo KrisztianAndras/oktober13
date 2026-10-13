@@ -1,8 +1,8 @@
 *Dőlt*
 **Félkövér**
-#H1
-##H2
-######H6
+# H1
+## H2
+###### H6
 `Kód`
 
 |elso cella|masodik cella|harmadik cella|negyedik cella|otodik cella|
